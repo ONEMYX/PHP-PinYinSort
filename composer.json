@@ -1,6 +1,6 @@
 {
-    "name": "myx/pinyin",
-    "description": "根据中文拼音排序",
+    "name": "myx/php-pinyinsort",
+    "description": "根据字符串的第一个字符的第一个拼音字母正序排序",
     "type": "library",
     "authors": [
         {
